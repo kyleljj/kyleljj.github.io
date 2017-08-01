@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>奔跑的小羊驼</title>
+  
+  <link href="//atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-01T04:02:16.510Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>obso_lu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Second Test</title>
+    <link href="http://yoursite.com/2017/08/01/readme2/"/>
+    <id>http://yoursite.com/2017/08/01/readme2/</id>
+    <published>2017-08-01T04:02:00.972Z</published>
+    <updated>2017-08-01T04:02:16.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Second Test</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#Second Test&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>First Test</title>
+    <link href="http://yoursite.com/2017/08/01/readme/"/>
+    <id>http://yoursite.com/2017/08/01/readme/</id>
+    <published>2017-08-01T03:56:54.148Z</published>
+    <updated>2017-08-01T03:57:38.005Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Test</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#Test&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
