@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-01T08:09:18.717Z</updated>
+  <updated>2017-08-01T08:11:31.105Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/01/Blender%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E7%B2%92%E5%AD%90%E7%B3%BB%E7%BB%9F/"/>
     <id>http://yoursite.com/2017/08/01/Blender基础学习——粒子系统/</id>
     <published>2017-08-01T08:05:41.000Z</published>
-    <updated>2017-08-01T08:09:18.717Z</updated>
+    <updated>2017-08-01T08:11:31.105Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -29,8 +29,8 @@
                 </div>
                 <div class="image-caption">Grass</div>
             </figure>
-<h2 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h2><pre><code>因为最近需要做一个关于农场的动画，动画中需要绘制大片的草地，因此开始学习[Blender](https://www.blender.org/ &quot;Blender&quot;)中强大的粒子系统。要完成一个效果良好的粒子操作，需要精细地调整各种参数以达到最佳效果，这边文章对blender中粒子系统各个参数的用于做一个记录，便于日后查验。
-</code></pre>]]></content>
+<h2 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h2><p> 因为最近需要做一个关于农场的动画，动画中需要绘制大片的草地，因此开始学习<a href="https://www.blender.org/" title="Blender" target="_blank" rel="external">Blender</a>中强大的粒子系统。要完成一个效果良好的粒子操作，需要精细地调整各种参数以达到最佳效果，这边文章对blender中粒子系统各个参数的用于做一个记录，便于日后查验。</p>
+]]></content>
     
     <summary type="html">
     
@@ -43,20 +43,6 @@
     
     
       <category term="Blender" scheme="http://yoursite.com/tags/Blender/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello</title>
-    <link href="http://yoursite.com/2017/08/01/Hello/"/>
-    <id>http://yoursite.com/2017/08/01/Hello/</id>
-    <published>2017-08-01T08:05:41.000Z</published>
-    <updated>2017-08-01T08:05:41.260Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
