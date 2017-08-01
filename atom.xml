@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-01T07:15:14.411Z</updated>
+  <updated>2017-08-01T07:19:30.485Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,11 +20,10 @@
     <link href="http://yoursite.com/2017/08/01/Blender%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94%E7%B2%92%E5%AD%90%E7%B3%BB%E7%BB%9F/"/>
     <id>http://yoursite.com/2017/08/01/Blender基础学习——粒子系统/</id>
     <published>2017-08-01T06:58:25.412Z</published>
-    <updated>2017-08-01T07:15:14.411Z</updated>
+    <updated>2017-08-01T07:19:30.485Z</updated>
     
-    <content type="html"><![CDATA[<p>#一、前言<br>    因为最近需要做一个关于农场的动画，动画中需要绘制大片的草地，因此开始学习<a href="https://www.blender.org/" title="Blender" target="_blank" rel="external">Blender</a></p>
-<pre><code>中强大的粒子系统。
-</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>#一、前言<br>    因为最近需要做一个关于农场的动画，动画中需要绘制大片的草地，因此开始学习<a href="https://www.blender.org/" title="Blender" target="_blank" rel="external">Blender</a>中强大的粒子系统。</p>
+]]></content>
     
     <summary type="html">
     
